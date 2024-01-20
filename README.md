@@ -9,6 +9,8 @@ extracts 5 columns and store every column to a new ouput file(txt format) using 
 
 # solution.cpp: 
 mainly compirses of 
+
+
               -find time1
               -find time2     (for basic mathematical calculation)
               -individual : to store answer for part a, b, c independently(as it was not clearly mentioned if those conditions should be satisfied simultaneously OR any of those OR we need to consider them independent problems, so this function is to get independent answers
