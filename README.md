@@ -23,3 +23,8 @@ mainly compirses of
 
 # my outputs:
         here in this folder, i inserted my txt files obtained for this particular dataset.
+
+# Caution:
+  -make sure that pandas is installed(for execution of data_storing)
+  -files should be in same folder or mention proper path or check if program has permissions to access the files
+  
